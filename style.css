@@ -65,10 +65,13 @@ nav img{
     font-size: 11px;
     color:aliceblue ;
 }
+
+
+
 .hero-btn{
     display: inline-block;
     text-decoration: none ;
-    color:aliceblue;
+    color: #fff;
     border: 1px solid aqua;
     padding: 12px 34px;
     font-size: 13px;
@@ -78,7 +81,10 @@ nav img{
 
 }
 .hero-btn:hover{
-    background-color: #f44336;
+    background-color: #f45236;
+    color:#fff;
+    border: 1px solid rgb(255, 0, 0);
+    
     transition: 1s;
 }
 
@@ -323,7 +329,7 @@ codes for testimonials */
     color: #fff;
 }
 .cta h1{
-    color: rgb(122, 248, 18);
+    color:#ccc
 }
 
 
@@ -366,6 +372,7 @@ codes for testimonials */
 }
 
 .about-us{
+    
     width: 80%;
     margin: auto;
     padding-top: 80px;
@@ -452,7 +459,7 @@ codes for testimonials */
     
 }
 .hero-btn, .red-btn{
-    color: black
+    color:#fff
     
 }
 
